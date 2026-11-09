@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Pagina 2 Tovar Aplicacion WEB </title>
+        <title>Consulta de Cursos</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-----------------------------BOOTSTRAP----------------------------->
@@ -38,12 +38,11 @@
                                                 <div class="col-md-9">
                                                         <div class="header-logo">
                                                                 <a href="#" class="logo">
-                                                                        <img src="./img/logoTUVCH.png" alt="">
+                                                                        <img src="" alt="">
                                                                 </a>
                                                         </div>
                                                 </div>
                                                 <!-- /LOGO -->
-
 
 
                                                 <!-- ACCOUNT -->
@@ -76,7 +75,7 @@
                         <!-- /MAIN HEADER -->
                 </header>
 <!-- /HEADER ------------------------------------------------------------------->
-<a href="tabla2.jsp">REST Json</a>
+<a href="tabla2.jsp">Examen 2do Parcial Anicua</a>
 <!-- NAVIGATION ---------------------------------------------------------------->
                 <nav id="navigation">
                         <!-- container -->
@@ -87,7 +86,7 @@
                                         <ul class="main-nav nav navbar-nav">
                                                 <li><a href="index.html">Inicio</a></li>
                                                 <li><a href="buscar.jsp">Buscar</a></li>
-                                                <li><a href="catalogo.jsp">Catálogo</a></li>
+                                                <li><a href="catalogo.jsp">Catalogo</a></li>
                                                 <li><a href="#openModal">Acerca de</a>
                                                     <div id="openModal" class="modalDialog">
                                                                                                 <div id="contenidomod">
@@ -113,7 +112,7 @@
                 <div class="thumbnail">
                    
                 </div>
-                <h4>LISTA OFICIAL DE USARIOS DE SISTEMA</h4>
+                <h4>LISTA OFICIAL DE CURSOS</h4>
                 <br>
             </center>
             
@@ -174,8 +173,8 @@
 
                                 <ul class="footer-links">
                                         <li><i class="fa fa-map-marker"></i>Av. Tezozómoc s/n, Colonia Alfredo Baranda, Valle de Chalco, Edo. de Méx. </li>
-                                        <li><i class="fa fa-phone"></i>1708 5959</li>
-                                        <li><i class="fa fa-envelope-o"></i>kenia.ayala@tuvch.ibero.mx</li>
+                                        <li><i class="fa fa-phone"></i>5587722366</li>
+                                        <li><i class="fa fa-envelope-o"></i>marianoanicua@gmail.com</li>
                                 </ul>
                             </div>
 
@@ -216,13 +215,13 @@
 
                  <div class="col-md-3 col-xs-6">
                  <div class="footer"style="display: inline-block;">
-                                <br><br><img src="img/logibero.png" style="display: inline-block;" width="250px">
+                                <br><br><img src="img/udl_logo.png" style="display: inline-block;" width="250px">
                                 
                   </div>      
                  </div>
                  <div class="col-md-3 col-xs-6">
                  <div class="footer"style="display: inline-block;">
-                                <br><img src="img/logsuj.png" style="display: inline-block;" width="250px">
+                                <br><img src="img/logo_sep.png" style="display: inline-block;" width="250px">
                                 
                   </div> 
           </div>
